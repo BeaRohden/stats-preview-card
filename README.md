@@ -15,3 +15,8 @@
 - Pure CSS;
 - Flexbox;
 
+I think my biggest challenge with this one was changuing the picture hue, since i was provided a b&w picture. I managed it with the codepen by Barrett Sonntag
+
+### Useful Resources
+
+This code pen https://codepen.io/sosuke/pen/Pjoqqp which provided me the purpleish hue for the picture.
