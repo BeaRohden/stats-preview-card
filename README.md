@@ -15,7 +15,7 @@
 - Pure CSS;
 - Flexbox;
 
-I think my biggest challenge with this one was changuing the picture hue, since i was provided a b&w picture. I managed it with the codepen by Barrett Sonntag
+I think my biggest challenge with this one was changing the picture hue, since i was provided a b&w picture. I managed it with the codepen by Barrett Sonntag
 
 ### Useful Resources
 
